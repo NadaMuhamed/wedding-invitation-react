@@ -863,7 +863,8 @@ a { -webkit-tap-highlight-color: transparent; }
   }
 
   .couple-names .ampersand {
-    margin: 0.22em 0 0.14em;
+    margin: 0;
+    font-size: 0.7em;
   }
 
   .invitation-copy {
